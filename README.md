@@ -77,6 +77,7 @@
 - [Cadena](https://cadena.dev) - Tutorials for building smart contracts, dapps, on multiple chains and earn a Cadena NFT Certificate.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
+- [Cyfrin Updraft](https://updraft.cyfrin.io/) - The leading smart contract development learning platform to kickstart your career and build real world projects, guided by industry leading experts.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
 - [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - Tutorial for building DeFi arbitrage bots.
 - [karmacoma-eth/sending-ether-cheat-sheet](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0) - Tips and best practices for sending Ether.
@@ -129,7 +130,7 @@
 
 ##### Educational
 
-- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
+- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards. 
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
